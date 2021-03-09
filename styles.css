@@ -12,6 +12,11 @@ body{
     font-family: Lato, sans-serif;
 }
 
+html { 
+    min-width: 320px; 
+    max-width: 1400px; 
+}
+
 #container {
     height: 550px;
     width: 360px;
